@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Yuewei Fei
+name: Michael Lansford
 # Username (this should match the folder name)
 authors:
-- yuewei_fei
+- michael_lansford
 # Is this the primary user of the site?
 superuser: false
 # Role/position
